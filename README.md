@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">KNURE student and front-end developer at the same time</h3>
+<h3 align="center">Front-end Developer</h3>
 <img align="right" width="400px" alt="coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriisalohub&label=Profile%20views&color=0e75b6&style=flat" alt="andriisalohub" /> </p>
 
-- 🌱 I’m currently learning **Next JS and Framer Motion**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **andriisalogub3@gmail.com**
 
